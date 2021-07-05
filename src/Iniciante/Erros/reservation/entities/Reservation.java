@@ -6,17 +6,17 @@ import java.util.concurrent.TimeUnit;
 
 public class Reservation {
     private int roomNumber;
-    private Date checin;
-    private Date checkout;
+    private Date checkIn;
+    private Date checkOut;
 
     private static SimpleDateFormat sdf= new SimpleDateFormat("dd/MM/yyyy");
 
     public Reservation(){}
 
-    public Reservation(int roomNumber, Date checin, Date checkout) {
+    public Reservation(int roomNumber, Date checkIn, Date checkOut) {
         this.roomNumber = roomNumber;
-        this.checin = checin;
-        this.checkout = checkout;
+        this.checkIn = checkIn;
+        this.checkOut = checkOut;
     }
 
     public int getRoomNumber() {
@@ -27,30 +27,34 @@ public class Reservation {
         this.roomNumber = roomNumber;
     }
 
-    public Date getChecin() {
-        return checin;
+    public Date getcheckIn() {
+        return checkIn;
     }
 
-    public Date getCheckout() {
-        return checkout;
+    public Date getcheckOut() {
+        return checkOut;
     }
 
     public long duration(){
-        long duration=checkout.getTime()-checin.getTime();
+        long duration=checkOut.getTime()-checkIn.getTime();
         return TimeUnit.DAYS.convert(duration,TimeUnit.MILLISECONDS);
     }
 
-    public void updateDates(Date checin, Date checkout){
-        this.checin=checin;
-        this.checkout=checkout;
+    public void updateDates(Date checkIn, Date checkOut){
+//        Date now= new Date();
+//        if (checkIn.before(now) || checkOut.before(now)){
+//            System.out.println("Error in reservation: Check-out date must be after check-in date");
+//        }
+        this.checkIn=checkIn;
+        this.checkOut=checkOut;
     }
 
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Reservation:");
         sb.append(" roomNumber: ").append(roomNumber);
-        sb.append(", check-in: ").append(sdf.format(checin));
-        sb.append(", check-out: ").append(sdf.format(checkout));
+        sb.append(", check-in: ").append(sdf.format(checkIn));
+        sb.append(", check-out: ").append(sdf.format(checkOut));
         sb.append(" "+duration()).append(" nights");
         return sb.toString();
     }
