@@ -3,7 +3,7 @@ package Iniciante.file.resources;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.sql.SQLOutput;
+
 
 public class Programa {
     public static void main(String[] args){
