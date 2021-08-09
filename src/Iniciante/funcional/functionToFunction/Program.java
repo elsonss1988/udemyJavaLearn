@@ -1,7 +1,7 @@
-package Iniciante.funcional.functionToFunction.function;
+package Iniciante.funcional.functionToFunction;
 
-import Iniciante.funcional.functionToFunction.function.entities.Product;
-import Iniciante.funcional.functionToFunction.function.util.ProductService;
+import Iniciante.funcional.functionToFunction.entities.Product;
+import Iniciante.funcional.functionToFunction.util.ProductService;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,8 +18,9 @@ public class Program {
         list.add(new Product("HD Case",80.90));
 
         ProductService ps=new ProductService();
-        double sum=ps.filteredSum(list);
-        System.out.println(ps.filteredSum(list));
+        double sum=ps.filteredSum(list,p->p.getName().charAt(0)=='T');
+        System.out.println(" Sum = "+ String.format("%.2f",sum));
+        //System.out.println(ps.filteredSum(list));
 
     }
 }

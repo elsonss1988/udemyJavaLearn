@@ -1,4 +1,4 @@
-package Iniciante.funcional.functionToFunction.function.entities;
+package Iniciante.funcional.functionToFunction.entities;
 
 import java.util.Objects;
 
