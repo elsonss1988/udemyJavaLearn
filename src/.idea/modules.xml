@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/firstFX/firstFX.iml" filepath="$PROJECT_DIR$/firstFX/firstFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaLearn.iml" filepath="$PROJECT_DIR$/udemyJavaLearn.iml" />
     </modules>
   </component>
