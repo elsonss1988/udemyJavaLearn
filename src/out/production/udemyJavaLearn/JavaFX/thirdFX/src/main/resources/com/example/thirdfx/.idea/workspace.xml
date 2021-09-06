@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a243101-a633-4f53-9d67-222b8d6fbf19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../secondFX/src/main/java/com/example/secondfx/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../secondFX/src/main/java/com/example/secondfx/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../secondFX/src/main/resources/com/example/secondfx/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_base_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_controls_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_fxml_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_graphics_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/com/example/thirdfx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/com/example/thirdfx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/com/example/thirdfx/ViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/com/example/thirdfx/util/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../thirdFX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../com/example/thirdfx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../firstFX/target/classes/com/example/firstfx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../firstFX/target/classes/com/example/firstfx/view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../secondFX/src/main/java/com/example/secondfx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../secondFX/src/main/java/com/example/secondfx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/JavaFX/second_FX/src/main/resources/com/example/firstfx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/JavaFX/second_FX/src/main/resources/com/example/firstfx/view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/JavaFX/second_FX/target/classes/com/example/firstfx/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/JavaFX/second_FX/target/classes/com/example/firstfx/view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/udemyJavaLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../out/production/udemyJavaLearn/udemyJavaLearn.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1xaN6XCgWsnVRoOqrZIBXn0PLyp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a243101-a633-4f53-9d67-222b8d6fbf19" name="Changes" comment="" />
+      <created>1630589065366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630589065366</updated>
+      <workItem from="1630589067192" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
