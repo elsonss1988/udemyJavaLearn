@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaFX/fifthFX/fifthFX.iml" filepath="$PROJECT_DIR$/JavaFX/fifthFX/fifthFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstFX/firstFX.iml" filepath="$PROJECT_DIR$/firstFX/firstFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workshop-javafx-jdbc/jdbcFX/jdbcFX.iml" filepath="$PROJECT_DIR$/workshop-javafx-jdbc/jdbcFX/jdbcFX.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemyJavaLearn.iml" filepath="$PROJECT_DIR$/udemyJavaLearn.iml" />
     </modules>
   </component>

@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/firstFX/pom.xml" />
         <option value="$PROJECT_DIR$/JavaFX/fifthFX/pom.xml" />
+        <option value="$PROJECT_DIR$/workshop-javafx-jdbc/jdbcFX/pom.xml" />
       </list>
     </option>
   </component>

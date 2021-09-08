@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fifthFX" />
+        <module name="jdbcFX" />
         <module name="firstFX" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fifthFX" target="11" />
       <module name="firstFX" target="11" />
+      <module name="jdbcFX" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
